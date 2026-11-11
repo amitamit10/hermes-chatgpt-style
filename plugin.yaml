@@ -1,0 +1,6 @@
+name: chatgpt-style
+version: 1.0.0
+description: "Unofficial ChatGPT / Codex-inspired desktop theme for Hermes: light and dark palettes, a centred reading column, compact blue user bubbles, a rounded composer card with a blue send button, Codex-style model and effort pickers, a floating Files/Review card and a quieter sidebar and footer. Desktop-only; no agent tools, hooks, middleware or env vars."
+author: amitelgabsi
+kind: standalone
+requires_hermes: ">=0.23"
